@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundedQueue", "BoundedQueue.csproj", "{602EA58A-A2C9-4958-8A37-F16AAEA98B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundedQueueTester", "..\BoundedQueueTester\BoundedQueueTester.csproj", "{26FE4959-705E-45A3-926C-25D2B07A67BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602EA58A-A2C9-4958-8A37-F16AAEA98B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602EA58A-A2C9-4958-8A37-F16AAEA98B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602EA58A-A2C9-4958-8A37-F16AAEA98B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602EA58A-A2C9-4958-8A37-F16AAEA98B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26FE4959-705E-45A3-926C-25D2B07A67BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FE4959-705E-45A3-926C-25D2B07A67BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FE4959-705E-45A3-926C-25D2B07A67BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FE4959-705E-45A3-926C-25D2B07A67BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D13E491-77F0-44EA-907C-B36F88E86078}
+	EndGlobalSection
+EndGlobal
